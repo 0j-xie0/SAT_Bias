@@ -31,7 +31,7 @@
 ••Calculated percentage of students in each school that took AP exam.  
 ••Visualized correlations between the percentage of AP test takers in each school with SAT scores using scatter plots.
 
-#Observations
+# Observations
 ### •From the correlation bar plots, the number of student and parent survey respondents have a high correlation with SAT scores. It is prudent to infer that parent, as well as student involvement, equates to higher academic achievement.
 ### •From the correlation bar plots, safety and respect scores based on how safe the learning environment is perceived by student and teachers seems to be a highly correlated factor in doing well academically. However, scatter plots reveal that there is a weak or perhaps no relationship bewteen perceived safety and SAT scores.   
 ### •From Basemap plots, Brooklyn has higher safety scores. Queens, Bronx and Upper Manhattan have lower scores.
