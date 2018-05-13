@@ -28,7 +28,7 @@
 ### Investigated Gender Differences in SAT Scores:
 ••Visualized correlations between gender and SAT scores using bar and scatter plots.
 ### Examined Links between AP Exam Taking and SAT Scores:
-••Calculated percentage of students in each school that took AP exam.
+••Calculated percentage of students in each school that took AP exam.  
 ••Visualized correlations between the percentage of AP test takers in each school with SAT scores using scatter plots.
 
 # Potential Next Steps
