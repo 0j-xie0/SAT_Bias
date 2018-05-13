@@ -31,6 +31,19 @@
 ••Calculated percentage of students in each school that took AP exam.  
 ••Visualized correlations between the percentage of AP test takers in each school with SAT scores using scatter plots.
 
+#Observations
+### •From the correlation bar plots, the number of student and parent survey respondents have a high correlation with SAT scores. It is prudent to infer that parent, as well as student involvement, equates to higher academic achievement.
+### •From the correlation bar plots, safety and respect scores based on how safe the learning environment is perceived by student and teachers seems to be a highly correlated factor in doing well academically. However, scatter plots reveal that there is a weak or perhaps no relationship bewteen perceived safety and SAT scores.   
+### •From Basemap plots, Brooklyn has higher safety scores. Queens, Bronx and Upper Manhattan have lower scores.
+### •From the correlation bar plots, there are positive correlations between percentage of whites and asians and SAT scores.
+••The high positive correlation of percentage asian challenges the assumption that the SAT is racially biased against minorities.
+### •Race and SAT scores might be a spurious correlation. A likely confounding variable might be socio-economics.
+••On further examination the list of schools with high ESL enrollment have low SAT scores. This reveals that low language comprehension might also be a confounding variable.  
+••On further examination the list of schools that are well-funded, provide extra help for students, hence well-funded schools tend to have high SAT scores. This reveals that socio-economics is a crucial factor for high SAT scores.
+### No discernable relationship between gender & SAT scores.
+### No discernable relationship between AP test taking & SAT scores.
+
+
 # Potential Next Steps
 •Determine whether there's a correlation between class size and SAT scores.  
 •Explore neighborhoods with the best schools:  
